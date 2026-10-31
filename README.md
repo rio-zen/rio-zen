@@ -61,4 +61,6 @@ people who hate on k-pop
 <h3 align="center"><i>credits.</i></h3>
 <div align="center">
 first & second artwork: eomkki (@eom_kki) on X
+
+
 <i>my <a href="https://github.com/sweet-kitty">pookie</a></i>
