@@ -1,5 +1,5 @@
 ![visitors](https://komarev.com/ghpvc/?username=rio-zen&color=808080&style=flat-square&label=visitors)
-div>
+
 <br>
 <h2 align="center"><i>about me.</i></h2>
 <table align="center">
