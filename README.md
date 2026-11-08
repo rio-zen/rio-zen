@@ -60,7 +60,7 @@ people who hate on k-pop
 first & second artwork: eomkki (@eom_kki) on X
 
 <i>my <a href="https://github.com/sweet-kitty">cutie</a></i> &
-<i>my <a href="https://github.com/meomorry">sweetie</a></i>
+<i>my <a href="https://github.com/meomorry">sweetie</a></i> &
 <i>my <a href="https://github.com/Meachless">babygirl<a></i>
 
 
